@@ -22,7 +22,7 @@ const stats = [
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen hero-gradient flex items-center overflow-hidden pt-20">
+    <section className="relative min-h-screen hero-gradient flex items-center overflow-hidden pt-32">
 
       {/* Background orbs */}
       <FloatingOrb size={300} color="rgba(10,110,78,0.15)" x="10%" y="20%" delay={0} />

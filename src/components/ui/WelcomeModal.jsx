@@ -72,8 +72,8 @@ export default function WelcomeModal() {
               </h2>
               <p className="text-gray-400 text-sm leading-relaxed">
                 Powered by{' '}
-                <span className="text-[#12A876] font-semibold">Kuringo</span> — cross-border
-                fintech connecting the African diaspora in Europe and UK with families in
+                <span className="text-[#12A876] font-semibold">Kuringo</span> cross border
+                fintech connecting the African diaspora in Europe, USA and UK with families in
                 West Africa.
               </p>
             </div>

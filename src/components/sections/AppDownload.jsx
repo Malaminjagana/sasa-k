@@ -4,7 +4,7 @@ import { FaGooglePlay, FaApple } from 'react-icons/fa'
 import AnimatedCard from '../ui/AnimatedCard'
 
 // Replace this URL with the real KURINGO app download link
-const APP_URL = 'https://kuringo.gm/download'
+const APP_URL = 'https://kuringo.com/download'
 
 export default function AppDownload() {
   return (
@@ -108,7 +108,7 @@ export default function AppDownload() {
                 rel="noopener noreferrer"
                 className="text-[#12A876] text-sm font-medium hover:underline"
               >
-                kuringo.gm/download
+                kuringo.com/download
               </a>
             </AnimatedCard>
           </div>
